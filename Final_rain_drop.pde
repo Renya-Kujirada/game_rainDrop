@@ -1,4 +1,4 @@
-// homework_20171218
+// 20171218
 // kujirada renya
 
 // HW11 : The raindrop catching game
